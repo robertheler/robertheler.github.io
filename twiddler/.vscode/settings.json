@@ -1,0 +1,17 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.wordWrap": "on",
+  "files.trimTrailingWhitespace": true,
+  "editor.tabCompletion": "on",
+  "editor.snippetSuggestions": "top",
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Mayukai Mirage Gruvbox Darktooth",
+  "javascript.suggest.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "javascript.validate.enable": true,
+  "editor.fontSize": 13.5,
+}

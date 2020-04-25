@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Paaji+2:wght@500&display=swap');
+
+body {
+  background: url(/style/background.png);
+  padding: 40px;
+}
+
+a {
+  height: 100px;
+  font-family: 'Baloo Paaji 2';
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+  color: gray;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Baloo Paaji 2';
+  font-weight: bold;
+  font-size: 80px;
+  text-align: center;
+  color: #fFBB00;
+  text-shadow: 1px 1px 20px #FFBB00;
+}
+
+a:hover {
+  color: white;
+}
+
+div {
+  text-align: center;
+}
