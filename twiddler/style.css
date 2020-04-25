@@ -136,7 +136,7 @@ body {
   justify-items: left;
   margin: 0;
   padding: 0;
-  background-color: #25292D;
+  background-color: url('background.png');
   display: grid;
   align-content: center;
 }
