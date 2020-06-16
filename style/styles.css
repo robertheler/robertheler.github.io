@@ -5,7 +5,7 @@ body {
 }
 
 a {
-  height: 40px;
+
   font-family: 'Baloo Paaji 2';
   font-weight: bold;
   font-size: 40px;
@@ -21,7 +21,7 @@ a {
   color: #fFBB00;
   text-align: center;
   margin: 0px;
-  font-size: 80px;
+  font-size: 40px;
 
 }
 
@@ -50,7 +50,7 @@ img {
   width: 40px;
   margin: 5px;
   height: 40px;
-  border-radius: 20px;
+  border-radius: 10px;
   border: none
 }
 
@@ -62,5 +62,5 @@ img:hover{
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-bottom: 20px;
+
 }
