@@ -2,32 +2,65 @@
 
 body {
   background: url(/style/background.png);
-  padding: 40px;
 }
 
 a {
-  height: 100px;
+  height: 40px;
   font-family: 'Baloo Paaji 2';
   font-weight: bold;
-  font-size: 80px;
+  font-size: 40px;
   text-align: center;
   color: gray;
   text-decoration: none;
+  /* justify-content: center;
+  display: flex;
+  flex-flow: "row"; */
+}
+
+#github {
+  color: #fFBB00;
+  text-align: center;
+  margin: 0px;
+  font-size: 80px;
+
 }
 
 h1 {
   font-family: 'Baloo Paaji 2';
   font-weight: bold;
-  font-size: 120px;
+  font-size: 90px;
   text-align: center;
   color: #fFBB00;
   text-shadow: 1px 1px 20px #FFBB00;
 }
 
+#github:hover {
+  color: #fFBB00;
+  text-shadow: 1px 1px 20px #FFBB00;
+}
 a:hover {
   color: white;
 }
 
 div {
   text-align: center;
+}
+
+img {
+  width: 40px;
+  margin: 5px;
+  height: 40px;
+  border-radius: 20px;
+  border: none
+}
+
+img:hover{
+  box-shadow: 1px 1px 20px #FFBB00;
+}
+
+.git{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 20px;
 }
